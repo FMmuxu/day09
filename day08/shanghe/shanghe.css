@@ -1,0 +1,257 @@
+.dv1 {
+    height: 1414px;
+    width: 1424px;
+    /* border: 1px solid red; */
+    position: absolute;
+    /* z-index: 0; */
+}
+
+.h-dv1 {
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 55px;
+    position: relative;
+    /* z-index: 1; */
+}
+
+.h-dv1 .h-dv1-1 {
+    display: block;
+    /* border: 1px solid red; */
+    background: url(image/logo.jpg) no-repeat;
+    width: 179px;
+    height: 23px;
+    position: relative;
+    left: 200px;
+    top: 15px;
+    /* z-index: 2; */
+}
+
+
+.h-dv1 .h-dv1-2 {
+    display: block;
+    /* border: 1px solid red; */
+    width: 198px;
+    height: 30px;
+    position: absolute;
+    right: 300px;
+    top: 15px;
+    /* z-index: 2; */
+}
+
+
+.h-dv1 .h-dv1-2 .h-2-1 {
+    background: url(./image/sea_l.jpg) no-repeat;
+    position: absolute;
+    left: 0px;
+    width: 166px;
+    height: 30px;
+}
+
+.h-dv1 .h-dv1-2 .h-2-2 {
+    background: url(./image/sea_r.jpg) no-repeat;
+    position: absolute;
+    right: 0px;
+    height: 30px;
+    width: 32px;
+}
+
+
+.h-dv2 {
+    /* border: 1px solid red; */
+    background: url(image/nav_bg.jpg);
+    height: 56px;
+}
+
+
+.h-dv2-1 {
+    /* border: 1px solid red; */
+    width: 800px;
+    height: 56px;
+    position: absolute;
+    left: 200px;
+}
+
+.h-dv2-1 .a1 {
+    /* border: 1px solid red; */
+    font-size: 18px;
+    padding: 0px 28px;
+    /* margin: 30px; */
+    line-height: 56px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.h-dv2-1 .a2 {
+    /* border: 1px solid red; */
+    font-size: 18px;
+    padding: 0px 28px;
+    /* margin: 30px; */
+    line-height: 56px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.h-dv2-1 .a3 {
+    /* border: 1px solid red; */
+    font-size: 18px;
+    padding: 0px 28px;
+    /* margin: 30px; */
+    line-height: 56px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.h-dv2-1 .a4 {
+    /* border: 1px solid red; */
+    font-size: 18px;
+    padding: 0px 28px;
+    /* margin: 30px; */
+    line-height: 56px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.h-dv2-1 .a5 {
+    /* border: 1px solid red; */
+    font-size: 18px;
+    padding: 0px 28px;
+    /* margin: 30px; */
+    line-height: 56px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.h-dv2-1 .a6 {
+    /* border: 1px solid red; */
+    font-size: 18px;
+    padding: 0px 28px;
+    /* margin: 30px; */
+    line-height: 56px;
+    color: #000000;
+    font-weight: bold;
+}
+
+
+.mainbody {
+    /* border: 1px solid red; */
+    width: 1424px;
+    height: 666px;
+    background: url(image/banner.jpg) no-repeat center;
+}
+
+
+.footer {
+    border: 1px solid red;
+    width: 1424px;
+    height: 693px;
+}
+
+
+.ft-1 {
+    /* border: 1px solid red; */
+    width: 1424px;
+    height: 30px;
+    background-color: #EDEDED;
+    position: relative;
+}
+
+
+.ft-1 .ft-1-1 {
+    /* border: 1px solid red; */
+    color: #555555;
+    position: absolute;
+    width: 624px;
+    left: 220px;
+    font-size: 20px;
+    height: 30px;
+}
+
+.ft-1 .ft-1-2 {
+    /* border: 1px solid red; */
+    background: url(image/icon.jpg) no-repeat;
+    position: absolute;
+    width: 624px;
+    height: 30px;
+    right: -310px;
+    top: 5px;
+}
+
+.ft-2 {
+    /* border: 1px solid red; */
+    position: absolute;
+    left: 220px;
+    width: 980px;
+    height: 218px;
+}
+
+.left {
+    /* border: 1px solid red; */
+    width: 330px;
+    height: 218px;
+    position: absolute;
+}
+
+.left .lf-1 {
+    border: 1px solid #e4e4e4;
+    position: absolute;
+    background: url(image/product_pic1.jpg) no-repeat center;
+    width: 330px;
+    height: 218px;
+    top: 10px;
+}
+
+.left .lf-2 {
+    /* border: 1px solid red; */
+    position: absolute;
+    background: url(image/arrow.jpg) no-repeat center;
+    width: 14px;
+    height: 14px;
+    padding: 5px 5px;
+    top: 15px;
+}
+
+
+.left .lf-3 {
+    /* border: 1px solid red; */
+    position: absolute;
+    background: url(image/arrow_l.jpg) no-repeat center;
+    width: 11px;
+    height: 19px;
+    padding: 5px 5px;
+    top: 100px;
+    left: 25px;
+}
+
+.left .lf-4 {
+    /* border: 1px solid red; */
+    position: absolute;
+    background: url(image/arrow_r.jpg) no-repeat center;
+    width: 11px;
+    height: 19px;
+    padding: 5px 5px;
+    top: 100px;
+    right: 25px;
+}
+
+.left .lf-5 {
+    /* border: 1px solid red; */
+    position: absolute;
+    font-size: 20px;
+    width: 330px;
+    height: 218px;
+    left: 14px;
+    color: #7ab800;
+    font-weight: bold;
+    top: 3px;
+    padding: 8px 13px;
+}
+
+.center {
+    border: 1px solid #e4e4e4;
+    /* border: 1px solid red; */
+    width: 330px;
+    height: 218px;
+    position: relative;
+    left: 340px;
+    top: 10px;
+}
